@@ -132,13 +132,11 @@
 		width: auto;
 	}
 	
-	#contact .contact-data h2 {
-		text-align: center;
-		width: 100%;
-		
-	}
+	/* Responsive Styles Contact Start */
 	
-	#contact .contact-data {
+
+	
+	#contact .contact-data,#contact .contact-data h2,#footer p {
 		text-align: center;
 		width: 100%;
 	}
@@ -155,9 +153,10 @@
 		margin: 0;
 	}	
 	
-	#footer p {
-		text-align: center;
-		width: 100%;
+
+	/* Responsive Styles Contact Stop */
+	section {
+		padding: 0 40px 50 px;
 	}
 }
 
@@ -204,5 +203,7 @@
 		text-align: center;
 		width: auto;
 	}
-	
+	section {
+		padding: 0 10px 30 px;
+	}
 }
