@@ -131,7 +131,34 @@
 		text-align: center;
 		width: auto;
 	}
+	
+	#contact .contact-data h2 {
+		text-align: center;
+		width: 100%;
 		
+	}
+	
+	#contact .contact-data {
+		text-align: center;
+		width: 100%;
+	}
+	
+	#contact .contact-form {
+		margin-bottom: 0;
+		text-align: center;
+		height: 330px;
+		width: 100%;
+		
+	}
+	#contact .contact-data .contact-social-icons a {
+		display: inline-block;
+		margin: 0;
+	}	
+	
+	#footer p {
+		text-align: center;
+		width: 100%;
+	}
 }
 
 
